@@ -1,0 +1,16 @@
+body
+{
+    background:linear-gradient(skyblue,pink,white,pink,skyblue);
+}
+h1{
+    color: brown;
+}
+#bulb{
+    margin-top: 50px;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    border: 8px solid orangered;
+    border-radius: 80px;
+    
+}
